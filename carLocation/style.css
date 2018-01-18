@@ -1,0 +1,21 @@
+#title{
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-top: 20px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.les-boutons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+background-color: grey;
+}
